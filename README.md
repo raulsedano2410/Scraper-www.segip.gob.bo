@@ -3,19 +3,19 @@
 ![Interior Ministry page](pagebolivia.PNG)
 
 > ### Need :
-<center>
-    Enter the Bolivian "General Personal Identification Service"<br/>
-    page and Create a File with the addresses of all the Identity<br/>
-    Registry Offices.
-</center>
- 
-> ### website:
+---
 
-<center>
-    <a href="(https://www.segip.gob.bo/">www.segip.gob.bo</a>
-</center>
+  *  Enter the Bolivian "General Personal Identification Service"<br/>
+     page and Create a File with the addresses of all the Identity<br/>
+     Registry Offices.
+
+ 
+> ### website:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [www.segip.gob.bo](https://www.segip.gob.bo)
+---
+
 
 > ### Library:
+---
 
 ```python
 from selenium import webdriver
